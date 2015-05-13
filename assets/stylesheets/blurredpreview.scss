@@ -1,0 +1,13 @@
+.blurred {
+  background: url(../plugins/BlurredPreview/images/bg_static.jpg) center;
+  min-height: 1450px;
+  position: absolute;
+  width: 100%;
+  max-width: 100%;
+  bottom: 0;
+  top: 0;
+}
+
+.modal-backdrop{
+  opacity: 0.1;
+}
